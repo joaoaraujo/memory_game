@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+#container {
+  margin: auto;
+  width: 990px;
+  text-align: center;
+  width: 600px;
+}
+
+img {
+  width: 95px;
+  cursor: pointer;
+}
+
+a {
+  color: cyan;
+  text-decoration: none;
+}
+
+.button {
+ cursor: pointer;
+ padding: 3px;
+ background-color: gray;
+}
